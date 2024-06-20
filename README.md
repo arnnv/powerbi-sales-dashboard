@@ -2,4 +2,8 @@
 
 ## Objective
 
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on `time series analysis`, to provide valuable insights and accurate `sales forecasting`.
+To enhance business success by leveraging advanced data analysis techniques within `Power BI`, with a focus on delivering valuable insights and accurate `sales forecasting`.
+
+## Dashboard
+
+![Dashboard](./sales%20dashboard.jpg)
